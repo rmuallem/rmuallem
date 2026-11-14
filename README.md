@@ -27,6 +27,8 @@ I am continuously expanding my skills in Microsoft Azure, Linux, Windows Server,
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 - Cisco Certified Network Associate (CCNA)
+- Linux Professional Institute Certification (LPIC-1)
+- Microsoft Certified Solutions Associate (MCSA)
 
 ## 🚀 Featured Projects
 
