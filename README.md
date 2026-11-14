@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Rim Muallem 👋
 
-<!--
-**rmuallem/rmuallem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineer | IT Infrastructure | Enterprise Networking | Azure & Cloud
 
-Here are some ideas to get you started:
+📍 Düsseldorf, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a Computer Engineer with professional experience in enterprise networking, IT infrastructure, and technical operations in Germany and Syria.
+
+My background includes working in the Vodafone Enterprise environment, focusing on network provisioning, technical configuration checks, troubleshooting, and coordination with technical teams.
+
+I am continuously expanding my skills in Microsoft Azure, Linux, Windows Server, AWS, GitHub, and cloud technologies.
+
+## 🛠️ Technical Skills
+
+**Networking:** TCP/IP, MPLS, VPN, VLAN, WAN, SD-WAN, Routing, Switching
+
+**Infrastructure:** Linux, Windows Server, Active Directory, Virtualization, IT Support
+
+**Cloud:** Microsoft Azure, AWS Fundamentals, Microsoft 365
+
+**Development Tools:** Git, GitHub, HTML, JavaScript, Terraform Basics
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+- Cisco Certified Network Associate (CCNA)
+
+## 🚀 Featured Projects
+
+### [IT Service Desk Console](https://github.com/rmuallem/service-desk-console)
+
+Interactive IT Helpdesk Dashboard featuring ticket management, priority tracking, SLA monitoring, and localStorage.
+
+🌐 [Live Application](https://rmuallem.github.io/service-desk-console/)
+
+### [IT Support Ticket Portal](https://github.com/rmuallem/git-practice)
+
+A learning project using HTML and JavaScript for basic IT support ticket management.
+
+### [Docker Getting Started](https://github.com/rmuallem/getting-started-app)
+
+A fork of Docker's getting-started application, used for exploring container technologies.
+
+## 🎯 Professional Focus
+
+I am interested in opportunities in:
+
+- IT Infrastructure & System Administration
+- Enterprise Networking
+- Azure & Cloud Operations
+- Linux / Windows Server Administration
+- IT Support & Technical Operations
+
+I am also expanding my practical knowledge of automation, AI-assisted development, and modern IT technologies.
+
+## 📫 Connect
+
+**GitHub:** [github.com/rmuallem](https://github.com/rmuallem)
+
+**Location:** Düsseldorf, Germany
