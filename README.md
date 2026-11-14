@@ -30,6 +30,12 @@ I am continuously expanding my skills in Microsoft Azure, Linux, Windows Server,
 - Linux Professional Institute Certification (LPIC-1)
 - Microsoft Certified Solutions Associate (MCSA)
 
+## 📚 Professional Training
+
+- AWS Solutions Architect – Associate Level Training
+- AWS Cloud Architecture and Services
+- AWS DevOps – Training
+
 ## 🚀 Featured Projects
 
 ### [IT Service Desk Console](https://github.com/rmuallem/service-desk-console)
